@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">untilted</string>
+    <string name="title_activity_main">untilted</string>
+    <string name="package_name">com.untilted.app</string>
+    <string name="custom_url_scheme">com.untilted.app</string>
+</resources>
